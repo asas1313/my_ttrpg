@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043611601703",
+    "project_id": "game-template-12321",
+    "storage_bucket": "game-template-12321.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043611601703:android:4857a04fe482920f58b702",
+        "android_client_info": {
+          "package_name": "space.modernit.my_ttrpg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043611601703-k2jm515c6u1b8v631p2tq7tase6l5dt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArVrxziUSmDuAvl7sPyWFfk494w-J_yaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043611601703-k2jm515c6u1b8v631p2tq7tase6l5dt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
